@@ -1,8 +1,6 @@
-<!doctype html>
-
 <html>
 <head>
-	<title>my site</title>
+	<title>main</title>
 	<style type="text/css">
 	td {
 	text-align:center;
