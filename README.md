@@ -1,1 +1,1 @@
-<a href="main">지식저장소</a>
+<a href="main.html">지식저장소</a>
